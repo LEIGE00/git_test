@@ -8,4 +8,4 @@ hello git!
 hello git! hello git world! master commit
 hello git!
 hello git! hello git world! fix-bug commit
-
+hello
