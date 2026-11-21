@@ -10,3 +10,4 @@ hello git!
 hello git! hello git world! fix-bug commit
 hello  hello ok ok
 okkkkkkkk
+gitee add commit test
